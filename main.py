@@ -4,3 +4,7 @@ shopping_dict = {
     'spozywczy': ['kasza', 'maka']
 }
 i = 0
+for key, values in shopping_dict.items():
+    key_1=key.capitalize()
+    new_values=[value.capitalize() for value in values ]
+    print(f"ide so {key_1} i kupuje tam{new_values}")
