@@ -1,7 +1,8 @@
 shopping_dict = {
     'warzywniak': ['marchewka', 'burak', 'rukola'],
     'piekarnia': ['bułka', 'chleb', 'pączek'],
-    'spozywczy': ['kasza', 'maka']
+    'spozywczy': ['kasza', 'maka', 'mleko']
+    
 }
 i = 0
 for key, values in shopping_dict.items():
