@@ -13,4 +13,4 @@ for key, values in shopping_dict.items():
 i = s+i
 print(f"W sumie kupuje {i} produktów.")
 print("i 2 kilometry z buta do domu")
-print("zona dzwoni ze trzeba jeszcze mleko")
+print("zona dzwoni ze trzeba jeszcze mleko, bo tesciowa z Maciejem przychodzi na kawe.")
