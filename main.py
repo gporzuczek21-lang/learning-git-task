@@ -11,3 +11,4 @@ for key, values in shopping_dict.items():
     s = len(new_values)
 i = s+i
 print(f"W sumie kupuje {i} produktów.")
+print("i 2 kilometry z buta do domu")
